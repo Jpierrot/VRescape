@@ -1,19 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class RayInteraction : MonoBehaviour
 {
-    Animator anim;
 
     public Camera camera;
-    [SerializeField]
+
+    Ray rayo;
+
+  [SerializeField]
     private float maxray;
-    // Start is called before the first frame update
-    void Start()
-    {
-        anim = GetComponent<Animator>();
-    }
 
     // Update is called once per frame
     void Update()
@@ -23,30 +21,24 @@ public class RayInteraction : MonoBehaviour
         }
     }
 
-    void Rayshoot() {
-        RaycastHit hit;
-        Ray ray = camera.ScreenPointToRay(Input.mousePosition);
-        if(Physics.Raycast(ray, out hit, maxray)) {
-            Debug.Log(hit.transform.name);
-            switch (hit.transform.name) {
-                case "door_01" :
-                    anim.SetBool("doorOpen", true);
-                    anim.SetBool("doorOpen", false);
-                    break;
-                case "door_02":
-                    anim.SetBool("doorOpen", true);
-                    anim.SetBool("doorOpen", false);
-                    break;
-                case "corpse_drawer 4":
-                    anim.SetBool("drawerOpen", true);
-                    anim.SetBool("drawerOpen", false);
-                    break;
-                default:
-                    break;
-            }
-            
-        }
+    private void OnDrawGizmos() {
+        Gizmos.color = Color.red;
+        Gizmos.DrawRay(rayo.origin, rayo.direction);
     }
 
-    
-}
+    void Rayshoot() {
+
+        Vector3 camerapos = new Vector3(camera.gameObject.transform.position.x / 2, 
+        camera.gameObject.transform.position.y / 2, 0);
+        rayo = camera.ScreenPointToRay(Input.mousePosition);
+        RaycastHit hit;
+        if (Physics.Raycast(rayo, out hit, maxray)) {
+            Debug.Log(hit.transform.name);
+            GameObject temp = hit.transform.gameObject;
+            temp?.GetComponent<Interaction>()?.PointerEnter();
+            OnDrawGizmos();
+        }  
+    }
+  }
+
+   

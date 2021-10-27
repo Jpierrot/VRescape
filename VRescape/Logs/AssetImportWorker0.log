@@ -1,0 +1,103 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.10f1 (297d780c91bc) revision 2719096'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1288; Version 2009; 64bit' Language: 'ko' Physical Memory: 24250 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.10f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/xoqls/OneDrive/바탕 화면/J-pie/유니티/forgithub/VRescape/VRescape
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49718
+Successfully changed project path to: C:/Users/xoqls/OneDrive/바탕 화면/J-pie/유니티/forgithub/VRescape/VRescape
+C:/Users/xoqls/OneDrive/바탕 화면/J-pie/유니티/forgithub/VRescape/VRescape
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 46.54 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 1.15 ms.
+Initialize engine version: 2020.3.10f1 (297d780c91bc)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/xoqls/OneDrive/바탕 화면/J-pie/유니티/forgithub/VRescape/VRescape/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   
+    VRAM:     12125 MB
+    Driver:   27.20.100.9415
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56332
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.10f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001369 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 36.22 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.18 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.851 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008119 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.98 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.990 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 2167 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 97.3 MB.
+System memory in use after: 97.2 MB.
+
+Unloading 47 unused Assets to reduce memory usage. Loaded Objects now: 2587.
+Total: 2.059200 ms (FindLiveObjects: 0.148300 ms CreateObjectMapping: 0.043000 ms MarkObjects: 1.792800 ms  DeleteObjects: 0.073900 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Animations/Door2Open.anim
+  artifactKey: Guid(3ee481d65e2396c49a6eb155e46a3b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Door2Open.anim using Guid(3ee481d65e2396c49a6eb155e46a3b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0f4016b0f4f51e7cd885040a6bb3de1') in 0.037810 seconds
+  Import took 0.041122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.008948 seconds.
+  path: Assets/Animations/Door1Open 1.anim
+  artifactKey: Guid(5bc642711ccf4e5478a59dc99e7c2f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Door1Open 1.anim using Guid(5bc642711ccf4e5478a59dc99e7c2f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c05dfadcc8069d4a5c988bd357f49676') in 0.008790 seconds
+  Import took 0.012932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.485430 seconds.
+  path: Assets/Animations/Door1Close.anim
+  artifactKey: Guid(5bc642711ccf4e5478a59dc99e7c2f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Door1Close.anim using Guid(5bc642711ccf4e5478a59dc99e7c2f6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99cec8f05190c3cbfcdd02f15cfcd6df') in 0.009370 seconds
+  Import took 0.012726 seconds .
+
