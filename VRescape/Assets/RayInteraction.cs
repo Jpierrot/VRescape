@@ -36,7 +36,6 @@ public class RayInteraction : MonoBehaviour
             Debug.Log(hit.transform.name);
             GameObject temp = hit.transform.gameObject;
             temp?.GetComponent<Interaction>()?.PointerEnter();
-            OnDrawGizmos();
         }  
     }
   }
