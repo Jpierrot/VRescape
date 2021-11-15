@@ -35,7 +35,7 @@ public class RayInteraction : MonoBehaviour
         if (Physics.Raycast(rayo, out hit, maxray)) {
             Debug.Log(hit.transform.name);
             GameObject temp = hit.transform.gameObject;
-            temp?.GetComponent<Interaction>()?.PointerEnter();
+            temp.GetComponent<Interaction>()?.PointerEnter();
         }  
     }
   }
