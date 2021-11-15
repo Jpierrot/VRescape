@@ -32,11 +32,25 @@ public class RayInteraction : MonoBehaviour
         camera.gameObject.transform.position.y / 2, 0);
         rayo = camera.ScreenPointToRay(Input.mousePosition);
         RaycastHit hit;
+        
         if (Physics.Raycast(rayo, out hit, maxray)) {
             Debug.Log(hit.transform.name);
             GameObject temp = hit.transform.gameObject;
-            temp.GetComponent<Interaction>()?.PointerEnter();
-        }  
+            Debug.Log("좆된 코드 : " + temp.name);
+            
+            switch(hit.transform.tag) {
+                case "key" :
+                    Debug.Log("이상한 코드 : " + temp.GetComponent<ForDrawer>());
+                    temp?.GetComponent<ForDrawer>()?.GetThisKey();
+                    break;
+                default:
+                    temp?.GetComponent<Interaction>()?.PointerEnter();
+                    break;
+            }
+        } 
+        
+
+
     }
   }
 

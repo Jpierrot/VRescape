@@ -1,10 +1,14 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
-public class Door : Interaction
+public class Door : MonoBehaviour
 {
-  
+
+    public TextMeshProUGUI keytext;
+
+    public bool keyCheck;
 
     // Start is called before the first frame update
     void Start()
@@ -15,6 +19,7 @@ public class Door : Interaction
     // Update is called once per frame
     void Update()
     {
-        
+        if (keyCheck)
+            keytext.text = "key : O";
     }
 }
