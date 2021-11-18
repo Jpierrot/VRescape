@@ -68,12 +68,9 @@ public class PlayerMovement : MonoBehaviour
         character.Move(moveDirection * Time.deltaTime);
     }
 
-
     /// <summary>
     /// 앞뒤, 좌우 이동
     /// </summary>
-
-
     private void CommonMove() {
 
         if (gravity != 10)

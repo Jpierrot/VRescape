@@ -7,19 +7,17 @@ public class Door : MonoBehaviour
 {
 
     public TextMeshProUGUI keytext;
+    public TextMeshProUGUI doortext;
 
-    public bool keyCheck;
+
+
+    public bool keyCheck = false;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+       keyCheck = false;
+        PlayerPrefs.SetInt("key", 0);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        if (keyCheck)
-            keytext.text = "key : O";
-    }
 }

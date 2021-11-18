@@ -5,24 +5,18 @@ using UnityEngine.UI;
 
 public class ForDrawer : Door
 {
-    public Button keybutton;
 
     // Start is called before the first frame update
 
-    private void OnTriggerEnter(Collider other) {
-        keybutton.gameObject.SetActive(true);
-    }
-
-    private void OnTriggerExit(Collider other) {
-        keybutton.gameObject.SetActive(false);
-    }
-
     public void GetThisKey() { // ÇÔ¼ö´Â µ¿»ç·Î 
-        Debug.Log("Å° È¹µæ");
+       
+        PlayerPrefs.SetInt("key", 1); 
+        ///Å°°¡ 0ÀÌ¸é false 1ÀÌ¸é true
         keyCheck = true;
+        Debug.Log("Å° È¹µæ");
+        keytext.text = "key : O";
+        keytext.color = Color.yellow;
         Destroy(gameObject);
     }
-
-
 
 }
