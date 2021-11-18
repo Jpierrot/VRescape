@@ -347,3 +347,666 @@ Total: 2.141600 ms (FindLiveObjects: 0.139900 ms CreateObjectMapping: 0.041300 m
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 3534.680508 seconds.
+  path: Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-0.exr
+  artifactKey: Guid(e4b1b8489170cc641a647b2f765d219f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-0.exr using Guid(e4b1b8489170cc641a647b2f765d219f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c67f5dca14f6fa414dc10a022947f5a4') in 0.084845 seconds
+  Import took 0.089573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-1.exr
+  artifactKey: Guid(f137e44355b71d94aa25c64514a32325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-1.exr using Guid(f137e44355b71d94aa25c64514a32325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9a389339a082e0ecc9786e721a1e933') in 0.029508 seconds
+  Import took 0.032991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-3.exr
+  artifactKey: Guid(f8eed365217ea554f96d1e51c85cf325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-3.exr using Guid(f8eed365217ea554f96d1e51c85cf325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '619f822759aba98b7b7cfa0ea1b000e4') in 0.044551 seconds
+  Import took 0.049175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-2.exr
+  artifactKey: Guid(d7e85e04951b2d64d9feec25cda12792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Morgue Room PBR/morgue scene/morgue/ReflectionProbe-2.exr using Guid(d7e85e04951b2d64d9feec25cda12792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c14dc5979fddab7c5376b4c7524d4e54') in 0.022732 seconds
+  Import took 0.028119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2540.221080 seconds.
+  path: Assets/Animations/cabinet.controller
+  artifactKey: Guid(a21456b7c248026459dba8e0c5ab270d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/cabinet.controller using Guid(a21456b7c248026459dba8e0c5ab270d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bae3f98cf398fb48a8d77bf7a7ddde') in 0.033271 seconds
+  Import took 0.040510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.405464 seconds.
+  path: Assets/Animations/corpse_drawer 4.controller
+  artifactKey: Guid(7cf492f66ebc3b34aa0bcf4e1c5de6fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/corpse_drawer 4.controller using Guid(7cf492f66ebc3b34aa0bcf4e1c5de6fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5375bcc5b51e3a07351d1bcab9763e33') in 0.011523 seconds
+  Import took 0.024451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001068 seconds.
+  path: Assets/Animations/corpse_drawer 4.controller
+  artifactKey: Guid(7cf492f66ebc3b34aa0bcf4e1c5de6fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/corpse_drawer 4.controller using Guid(7cf492f66ebc3b34aa0bcf4e1c5de6fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5375bcc5b51e3a07351d1bcab9763e33') in 0.004130 seconds
+  Import took 0.007873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.702022 seconds.
+  path: Assets/Animations/door2.controller
+  artifactKey: Guid(00fdee52c5c3bc2418db5f81c2fc7034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/door2.controller using Guid(00fdee52c5c3bc2418db5f81c2fc7034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f9c099932d7619aa3f3b7e23ac390a') in 0.011355 seconds
+  Import took 0.025320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Animations/door2.controller
+  artifactKey: Guid(00fdee52c5c3bc2418db5f81c2fc7034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/door2.controller using Guid(00fdee52c5c3bc2418db5f81c2fc7034) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f9c099932d7619aa3f3b7e23ac390a') in 0.009753 seconds
+  Import took 0.016315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.257103 seconds.
+  path: Assets/Animations/DrawerClose.anim
+  artifactKey: Guid(b5adcd30eb4f6b44c93fba2d91bc0b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/DrawerClose.anim using Guid(b5adcd30eb4f6b44c93fba2d91bc0b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c67c21f169f68b7e9da783f64818af8') in 0.011136 seconds
+  Import took 0.026701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001847 seconds.
+  path: Assets/Animations/DrawerClose.anim
+  artifactKey: Guid(b5adcd30eb4f6b44c93fba2d91bc0b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/DrawerClose.anim using Guid(b5adcd30eb4f6b44c93fba2d91bc0b98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c67c21f169f68b7e9da783f64818af8') in 0.004182 seconds
+  Import took 0.009295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.848150 seconds.
+  path: Assets/Animations/Door2Close.anim
+  artifactKey: Guid(a7f84c5e938a4d242ab78d7aa7eef19a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Door2Close.anim using Guid(a7f84c5e938a4d242ab78d7aa7eef19a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa7143075e9747bf5b8727111284015') in 0.008226 seconds
+  Import took 0.011576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.060422 seconds.
+  path: Assets/Animations/door.controller
+  artifactKey: Guid(3560ba03f03541f43a1f3bd61d83cfe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/door.controller using Guid(3560ba03f03541f43a1f3bd61d83cfe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78af1ad09872b3667491e1c61d00ef9e') in 0.012718 seconds
+  Import took 0.016860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.788319 seconds.
+  path: Assets/Animations/cabinetOpen.anim
+  artifactKey: Guid(7a1c5d6b0cae887419cdffeefc519b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/cabinetOpen.anim using Guid(7a1c5d6b0cae887419cdffeefc519b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3096a06b03de7e8c40b459b6d9cfc12a') in 0.008476 seconds
+  Import took 0.022180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.790400 seconds.
+  path: Assets/Animations/cabinetOpen 1.anim
+  artifactKey: Guid(87e98a7f6de5520498d788caacd60290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/cabinetOpen 1.anim using Guid(87e98a7f6de5520498d788caacd60290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c18c2b38f295345b2e55b74261dd07ee') in 0.008965 seconds
+  Import took 0.012138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.789687 seconds.
+  path: Assets/Animations/cabinetClose1.anim
+  artifactKey: Guid(87e98a7f6de5520498d788caacd60290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/cabinetClose1.anim using Guid(87e98a7f6de5520498d788caacd60290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '402d2f7c90ad7fb20058ea7fd87ab323') in 0.007460 seconds
+  Import took 0.011120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.618716 seconds.
+  path: Assets/Animations/cabinet.controller
+  artifactKey: Guid(a21456b7c248026459dba8e0c5ab270d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/cabinet.controller using Guid(a21456b7c248026459dba8e0c5ab270d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2e39cc013ee4c2d41edc6fbac877414') in 0.004449 seconds
+  Import took 0.010342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.203086 seconds.
+  path: Assets/Animations/cabinetOpen.anim
+  artifactKey: Guid(7a1c5d6b0cae887419cdffeefc519b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/cabinetOpen.anim using Guid(7a1c5d6b0cae887419cdffeefc519b26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a780ac784383e44d59e89ae0ff2daeb') in 0.003484 seconds
+  Import took 0.008919 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008830 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.091 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.71 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 2131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2664.
+Total: 2.223800 ms (FindLiveObjects: 0.156500 ms CreateObjectMapping: 0.042000 ms MarkObjects: 1.931800 ms  DeleteObjects: 0.092300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008526 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.78 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.24 ms.
+Unloading 2131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2668.
+Total: 2.036800 ms (FindLiveObjects: 0.154000 ms CreateObjectMapping: 0.044400 ms MarkObjects: 1.782500 ms  DeleteObjects: 0.054400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009271 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.80 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.40 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.638 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 2.20 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.18 ms.
+Unloading 2131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2672.
+Total: 4.324700 ms (FindLiveObjects: 0.693600 ms CreateObjectMapping: 0.054500 ms MarkObjects: 3.505500 ms  DeleteObjects: 0.068900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 175.439423 seconds.
+  path: Assets/asset_store
+  artifactKey: Guid(45844d5c36200f140beccc2a041a9f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store using Guid(45844d5c36200f140beccc2a041a9f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a58307013fa7205d53672c6cc348db65') in 0.011923 seconds
+  Import took 0.025327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000856 seconds.
+  path: Assets/asset_store
+  artifactKey: Guid(45844d5c36200f140beccc2a041a9f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store using Guid(45844d5c36200f140beccc2a041a9f52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a58307013fa7205d53672c6cc348db65') in 0.006293 seconds
+  Import took 0.010783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.668302 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b4cbde9565bf190136f1148817e1ea') in 0.007290 seconds
+  Import took 0.020114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004303 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b4cbde9565bf190136f1148817e1ea') in 0.006379 seconds
+  Import took 0.010333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.057956 seconds.
+  path: Assets/asset_store/key_lock
+  artifactKey: Guid(d3e4a4cafd4f12742945b299ae624402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock using Guid(d3e4a4cafd4f12742945b299ae624402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd79bd4bd0d572536aefe8097a73610') in 0.007284 seconds
+  Import took 0.020337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.078333 seconds.
+  path: Assets/asset_store/key_lock/prefab
+  artifactKey: Guid(2dbed175e69f2444ca4e36edf46e9dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab using Guid(2dbed175e69f2444ca4e36edf46e9dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578d4294b4585949254b3370c296e686') in 0.007625 seconds
+  Import took 0.020885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004996 seconds.
+  path: Assets/asset_store/key_lock/prefab
+  artifactKey: Guid(2dbed175e69f2444ca4e36edf46e9dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab using Guid(2dbed175e69f2444ca4e36edf46e9dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '578d4294b4585949254b3370c296e686') in 0.006323 seconds
+  Import took 0.010094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.040870 seconds.
+  path: Assets/asset_store/key_lock/prefab/prf_key_01.prefab
+  artifactKey: Guid(9295189b4f03b8a47b9873a8492069d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab/prf_key_01.prefab using Guid(9295189b4f03b8a47b9873a8492069d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '620cbd4dece1629d10c634449e9df4d9') in 0.183461 seconds
+  Import took 0.187128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/asset_store/key_lock/prefab/prf_lock_01.prefab
+  artifactKey: Guid(0bff3850fb8b0914ba97ae33a25041c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab/prf_lock_01.prefab using Guid(0bff3850fb8b0914ba97ae33a25041c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0372b8a5aa02a1ff791d9eb2b22b37') in 0.138952 seconds
+  Import took 0.142637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/asset_store/key_lock/prefab/prf_v_key_02.prefab
+  artifactKey: Guid(974c90fb5c85e1145b28c692035ab2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab/prf_v_key_02.prefab using Guid(974c90fb5c85e1145b28c692035ab2f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0651643bc460c3a5d5cf730be0f36f1c') in 0.139149 seconds
+  Import took 0.143291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/asset_store/key_lock/prefab/prf_v_key_04.prefab
+  artifactKey: Guid(a1648482d42851340b0961f999414488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab/prf_v_key_04.prefab using Guid(a1648482d42851340b0961f999414488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9278ece831038fe70dfd1a8c691f0746') in 0.136165 seconds
+  Import took 0.139782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/asset_store/key_lock/prefab/prf_v_key_03.prefab
+  artifactKey: Guid(2d678e3e202b1344d999c6e60927f9ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab/prf_v_key_03.prefab using Guid(2d678e3e202b1344d999c6e60927f9ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c442c93aaebe23dbd7a3df2bcb65a545') in 0.132818 seconds
+  Import took 0.137061 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017656 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.24 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.418 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 2.07 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.56 ms.
+Unloading 2131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2677.
+Total: 4.026100 ms (FindLiveObjects: 0.256400 ms CreateObjectMapping: 0.077100 ms MarkObjects: 3.481600 ms  DeleteObjects: 0.208500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.980 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.71 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 2131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.4 MB.
+System memory in use after: 96.5 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2681.
+Total: 2.209900 ms (FindLiveObjects: 0.158200 ms CreateObjectMapping: 0.047400 ms MarkObjects: 1.947300 ms  DeleteObjects: 0.055800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 422.601578 seconds.
+  path: Assets/asset_store/key_lock/prefab/cabinet.controller
+  artifactKey: Guid(ac51b87e0e170e941ab3a718bbe34062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab/cabinet.controller using Guid(ac51b87e0e170e941ab3a718bbe34062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da955d2ea878d96938b71aef08316fd') in 0.016799 seconds
+  Import took 0.030318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.424187 seconds.
+  path: Assets/asset_store/key_lock/prefab/cabinetOpen2.anim
+  artifactKey: Guid(298262095e0abd74eb5e59128e63a1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab/cabinetOpen2.anim using Guid(298262095e0abd74eb5e59128e63a1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fb97b8aa89c7ff91af396eafde4da4d') in 0.008015 seconds
+  Import took 0.020142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.908962 seconds.
+  path: Assets/asset_store/key_lock/prefab/cabinetOpen2 1.anim
+  artifactKey: Guid(aeea1e364dcd6da498087dbc63a4311e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab/cabinetOpen2 1.anim using Guid(aeea1e364dcd6da498087dbc63a4311e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'addd2031bfbf5dd626e590db89dd822a') in 0.007331 seconds
+  Import took 0.012985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.620316 seconds.
+  path: Assets/asset_store/key_lock/prefab/cabinetOpen2.anim
+  artifactKey: Guid(298262095e0abd74eb5e59128e63a1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab/cabinetOpen2.anim using Guid(298262095e0abd74eb5e59128e63a1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '308c38adf8b70be5a031a4c22acee7f7') in 0.003557 seconds
+  Import took 0.008051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.846411 seconds.
+  path: Assets/asset_store/key_lock/prefab/cabinetClose2.anim
+  artifactKey: Guid(aeea1e364dcd6da498087dbc63a4311e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab/cabinetClose2.anim using Guid(aeea1e364dcd6da498087dbc63a4311e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70cf2206000fbac3d37bff404aca1d7a') in 0.010026 seconds
+  Import took 0.014418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 105.891301 seconds.
+  path: Assets/asset_store/key_lock/prefab/cabinet.controller
+  artifactKey: Guid(ac51b87e0e170e941ab3a718bbe34062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/asset_store/key_lock/prefab/cabinet.controller using Guid(ac51b87e0e170e941ab3a718bbe34062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89b52dff62aee2f9f74a3a05714d104d') in 0.004094 seconds
+  Import took 0.007761 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011658 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.954 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.69 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 2131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.5 MB.
+System memory in use after: 96.6 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2685.
+Total: 2.047300 ms (FindLiveObjects: 0.180000 ms CreateObjectMapping: 0.039900 ms MarkObjects: 1.764100 ms  DeleteObjects: 0.061900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010400 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.059 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.70 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.09 ms.
+Unloading 2131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.6 MB.
+System memory in use after: 96.7 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2689.
+Total: 2.220400 ms (FindLiveObjects: 0.177500 ms CreateObjectMapping: 0.054300 ms MarkObjects: 1.933600 ms  DeleteObjects: 0.053500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009199 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.16 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.14 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.109 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.71 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 2131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.6 MB.
+System memory in use after: 96.7 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2693.
+Total: 2.084200 ms (FindLiveObjects: 0.154500 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.805900 ms  DeleteObjects: 0.081100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015235 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 2.00 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.19 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.403 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 2.82 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.49 ms.
+Unloading 2131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.7 MB.
+System memory in use after: 96.8 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2697.
+Total: 4.770400 ms (FindLiveObjects: 0.544900 ms CreateObjectMapping: 0.165700 ms MarkObjects: 3.913100 ms  DeleteObjects: 0.143200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011953 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.187 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 1.60 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+Unloading 2131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.7 MB.
+System memory in use after: 96.9 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2701.
+Total: 2.397500 ms (FindLiveObjects: 0.216000 ms CreateObjectMapping: 0.054200 ms MarkObjects: 1.951100 ms  DeleteObjects: 0.175000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.015212 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 4.90 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.26 ms.
+[Build Check] RegisterBuildPlayerHandler,Already Do not show: False
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+Pvr_UnitySDKBuildCheck:.cctor () (at Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs:29)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/PicoMobileSDK/Pvr_UnitySDK/Editor/Pvr_UnitySDKBuildCheck.cs Line: 29)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  2.746 seconds
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 2.75 ms, found 13 plugins.
+Preloading 1 native plugins for Editor in 0.44 ms.
+Unloading 2131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.7 MB.
+System memory in use after: 96.9 MB.
+
+Unloading 40 unused Assets to reduce memory usage. Loaded Objects now: 2705.
+Total: 6.316000 ms (FindLiveObjects: 0.773900 ms CreateObjectMapping: 0.264500 ms MarkObjects: 4.912000 ms  DeleteObjects: 0.359100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
