@@ -16,3 +16,4 @@ wasd를 활용하여 앞뒤좌우로 움직입니다.
 
 열쇠를 찾아서 열쇠로 문을 열고 탈출하면 됩니다. 
 
+영상 자료 : https://www.youtube.com/watch?v=wN4LJmwbXUc&ab_channel=%EC%A0%95%EC%96%B4%EB%A6%AC%ED%8C%8C%EC%9D%B4
